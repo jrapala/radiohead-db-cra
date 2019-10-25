@@ -1,0 +1,180 @@
+[
+	{
+		"id": "a-moon-shaped-pool",
+		"title": "A Moon Shaped Pool",
+		"releaseYear": 2016,
+		"songs": [
+			"burn-the-witch",
+			"daydreaming",
+			"decks-dark",
+			"desert-island-disk",
+			"ful-stop",
+			"glass-eyes",
+			"identikit",
+			"the-numbers",
+			"present-tense",
+			"tinker-tailor",
+			"true-love-waits"
+		]
+	},
+	{
+		"id": "amnesiac",
+		"title": "Amnesiac",
+		"releaseYear": 2001,
+		"songs": [
+			"packt-like-sardines",
+			"pyramid-song",
+			"pulk-pull",
+			"you-and-whose-army",
+			"i-might-be-wrong",
+			"knives-out",
+			"morning-bell-amnesiac",
+			"dollars-and-cents",
+			"hunting-bears",
+			"like-spinning-plates",
+			"life-in-a-glasshouse"
+		]
+	},
+	{
+		"id": "hail-to-the-thief",
+		"title": "Hail to the Thief",
+		"releaseYear": 2003,
+		"songs": [
+			"2-2-5",
+			"sit-down-stand-up",
+			"sail-to-the-moon",
+			"backdrifts",
+			"go-to-sleep",
+			"where-i-end",
+			"we-suck-young-blood",
+			"the-gloaming",
+			"there-there",
+			"i-will",
+			"a-punchup-at-a-wedding",
+			"myxomatosis",
+			"scatterbrain",
+			"a-wolf-at-the-door"
+		]
+	},
+	{
+		"id": "i-might-be-wrong",
+		"title": "I Might Be Wrong: Live Recordings",
+		"releaseYear": 2001,
+		"songs": [
+			"the-national-anthem",
+			"i-might-be-wrong",
+			"morning-bell",
+			"like-spinning-plates",
+			"idioteque",
+			"everything-in-its-right-place",
+			"dollars-and-cents",
+			"true-love-waits"
+		]
+	},
+	{
+		"id": "in-rainbows",
+		"title": "In Rainbows",
+		"releaseYear": 2007,
+		"songs": [
+			"15-step",
+			"bodysnatchers",
+			"nude",
+			"weird-fishes",
+			"all-i-need",
+			"faust-arp",
+			"reckoner",
+			"house-of-cards",
+			"jigsaw-falling-into-place",
+			"videotape"
+		]
+	},
+	{
+		"id": "kid-a",
+		"title": "Kid A",
+		"releaseYear": 2000,
+		"songs": [
+			"everything-in-its-right-place",
+			"kid-a",
+			"the-national-anthem",
+			"how-to-disappear-completely",
+			"treefingers",
+			"optimistic",
+			"in-limbo",
+			"idioteque",
+			"morning-bell",
+			"motion-picture-soundtrack"
+		]
+	},
+	{
+		"id": "ok-computer",
+		"title": "OK Computer",
+		"releaseYear": 1997,
+		"songs": [
+			"airbag",
+			"paranoid-android",
+			"subterranean-homesick-alien",
+			"exit-music",
+			"let-down",
+			"karma-police",
+			"fitter-happier",
+			"electioneering",
+			"climbing-up-the-walls",
+			"no-surprises",
+			"lucky",
+			"the-tourist"
+		]
+	},
+	{
+		"id": "pablo-honey",
+		"title": "Pablo Honey",
+		"releaseYear": 1993,
+		"songs": [
+			"you",
+			"creep",
+			"how-do-you",
+			"stop-whispering",
+			"thinking-about-you",
+			"anyone-can-play-guitar",
+			"ripcord",
+			"vegetable",
+			"prove-yourself",
+			"i-cant",
+			"lurgee",
+			"blow-out"
+		]
+	},
+	{
+		"id": "the-bends",
+		"title": "The Bends",
+		"releaseYear": 1995,
+		"songs": [
+			"planet-telex",
+			"the-bends",
+			"high-and-dry",
+			"fake-plastic-trees",
+			"bones",
+			"nice-dream",
+			"just",
+			"my-iron-lung",
+			"bullet-proof",
+			"black-star",
+			"sulk",
+			"street-spirit"
+		]
+	},
+	{
+		"id": "the-king-of-limbs",
+		"title": "The King of Limbs",
+		"releaseYear": 2011,
+		"songs": [
+			"bloom",
+			"morning-mr-magpie",
+			"little-by-little",
+			"feral",
+			"lotus-flower",
+			"codex",
+			"give-up-the-ghost",
+			"separator"
+		]
+	}
+]
