@@ -15,9 +15,10 @@
   "scripts": {
     "start": "react-scripts start",
     "start:lambda": "netlify-lambda serve src/lambda",
-    "build": "npm i src/lambda && run-p build:**",
+    "build": "run-p build:**",
     "build:app": "react-scripts build",
-    "build:lambda": "netlify-lambda build src/lambda"
+    "build:lambda": "netlify-lambda build src/lambda",
+    "preinstall": "cd src/lambda && npm i"
   },
   "eslintConfig": {
     "extends": "react-app"
